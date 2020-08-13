@@ -1,0 +1,17 @@
+.gradle/
+.classpath
+.idea/
+.project
+.settings/
+.vscode/
+/build.log
+out/
+test-output/
+bin/
+.gradle
+build/
+target/
+*.iml
+.externalToolBuilders
+node_modules/
+dist/
